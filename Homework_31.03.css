@@ -1,19 +1,13 @@
-
-
-
-.page {
-
+.page{
 	height: 1150px;
 	background-color: #f1e9d2;
 	width: 920px;
-	padding: 5px 6px 7px;
+	padding: 5px 6px 7px 20px;
 	border: 5px;
-
+	margin: 0 auto;
 }
 
-
-.foto {
-
+.foto{
 	height: 300px;
 	width: 400px;
 	padding: 20px 20px 20px 90px;
@@ -21,13 +15,9 @@
 	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/OUN-r_Flag_1941.svg/1200px-OUN-r_Flag_1941.svg.png);
 	background-repeat: no-repeat;
 	background-size: contain;
- 
 }
 
-
-
-.text {
-
+.text{
 	height: 700px;
 	width: 900px;
 	padding: 35px 6px 7px;
